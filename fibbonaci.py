@@ -1,4 +1,4 @@
-print("Jayakrishnaaaaaaaaaaa")
+print("Jayakrishnaaaaaaaaa")
 a,b=0,1
 n=100
 for i in range(n):
